@@ -1,5 +1,3 @@
-# resume
-a short description of myself
 
 # Yash Modi
 [12](/12.jpeg)
