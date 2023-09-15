@@ -2,7 +2,7 @@
 a short description of myself
 
 # Yash Modi
-![12](https://github.com/yashmodi9998/resume/assets/98708635/d41f295e-1748-4af8-a49c-4c72f0af1925)
+[12](/12.jpeg)
 ## About
 I am from India. I recently came to Canada.
 ## Projects
@@ -13,11 +13,11 @@ I am from India. I recently came to Canada.
 | Leopix |    ABC            | JAVA       |   
 | Food delivery App |    [delivery app](https://github.com/yashmodi9998/delivery-partner)            | Flutter       |   
 
-## Education
-I completed my bachelor's in Computer engineering in 2020. I secured 8.61 CGPA to get the degree.
-## Experience
-I have a little bit of experience in the IT industry. I have worked at TCS for 1.5 years as an Assistant System Engineer.
+## Education and E
+- 2016-2020 Computer Engineer with  8.61 CGPA 
+- 2021-2023  Assistant System Engineer at TCS 
 ## Contact
-My contact number is +14376618091 and email id is yashmodi998@gmail.com
+- [ Linked In](https://www.linkedin.com/in/yash-modi-0a551b133/)
+- [ Github ](https://github.com/yashmodi9998/)
 
 
