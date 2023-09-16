@@ -1,6 +1,6 @@
 
 # Yash Modi
-![Photo of Yash](_readme/yash-photo.jpeg"Photo of Yash")
+![Photo of Yash](_readme/yash-photo.jpeg "Photo of Yash")
 ## About
 I am from India. I recently came to Canada.
 ## Projects
@@ -11,7 +11,7 @@ I am from India. I recently came to Canada.
 | Leopix |    ABC            | JAVA       |   
 | Food delivery App |    [delivery app](https://github.com/yashmodi9998/delivery-partner)            | Flutter       |   
 
-## Education and E
+## Education and Experience
 - 2016-2020 Computer Engineer with  8.61 CGPA 
 - 2021-2023  Assistant System Engineer at TCS 
 ## Contact
