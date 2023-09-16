@@ -1,6 +1,6 @@
 
 # Yash Modi
-![12](./12.jpeg)
+![Photo of Yash](_readme/yash-photo.jpeg"Photo of Yash")
 ## About
 I am from India. I recently came to Canada.
 ## Projects
