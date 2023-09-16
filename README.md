@@ -1,6 +1,6 @@
 
 # Yash Modi
-[12](/12.jpeg)
+![12](./12.jpeg)
 ## About
 I am from India. I recently came to Canada.
 ## Projects
