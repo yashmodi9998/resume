@@ -16,9 +16,9 @@ I am from India. I recently came to Canada.
 - Web Development [2023-2024]
 
 ## Experience
--Infozium IT Solution [Oct 2020 - Apr 2021]
--Tata Consultancy Service [Apr 2021 - Oct 2022]
--PreLax IT Solution [Nov 2022 - May 2023]
+- Infozium IT Solution [Oct 2020 - Apr 2021]
+- Tata Consultancy Service [Apr 2021 - Oct 2022]
+- PreLax IT Solution [Nov 2022 - May 2023]
 
 ## Contact
 - [ Linked In](https://www.linkedin.com/in/yash-modi-0a551b133/)
