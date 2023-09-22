@@ -11,7 +11,7 @@ I am from India. I recently came to Canada.
 | Leopix |    ABC            | JAVA       |   
 | Food delivery App |    [delivery app](https://github.com/yashmodi9998/delivery-partner)            | Flutter       |   
 
-## Education and Experience
+## Education 
 - Computer Engineer [2016-2020]
 - Web Development [2023-2024]
 
