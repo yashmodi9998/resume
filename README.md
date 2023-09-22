@@ -12,8 +12,14 @@ I am from India. I recently came to Canada.
 | Food delivery App |    [delivery app](https://github.com/yashmodi9998/delivery-partner)            | Flutter       |   
 
 ## Education and Experience
-- 2016-2020 Computer Engineer with  8.61 CGPA 
-- 2021-2023  Assistant System Engineer at TCS 
+- Computer Engineer [2016-2020]
+- Web Development [2023-2024]
+
+## Experience
+-Infozium IT Solution [Oct 2020 - Apr 2021]
+-Tata Consultancy Service [Apr 2021 - Oct 2022]
+-PreLax IT Solution [Nov 2022 - May 2023]
+
 ## Contact
 - [ Linked In](https://www.linkedin.com/in/yash-modi-0a551b133/)
 - [ Github ](https://github.com/yashmodi9998/)
